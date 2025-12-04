@@ -12864,6 +12864,16 @@
         <Type>Script</Type>
         <Description>Load Removal is available. (By B3, updated by Santzo)</Description>
     </AutoSplitter>
+      <AutoSplitter>
+    <Games>
+      <Game>Nioh 2</Game>
+    </Games>
+    <URLs>
+      <URL>https://github.com/AxelSanGo/LoadRemovers/blob/main/Nioh2.asl</URL>
+    <URLs>
+    <Type>Script</Type>
+    <Description>Load Removal is available. (By AxelSanGo) </Description>
+  </AutoSplitter>
     <AutoSplitter>
         <Games>
             <Game>Wolfenstein II: The New Colossus</Game>
